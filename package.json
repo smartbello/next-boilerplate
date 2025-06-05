@@ -42,7 +42,7 @@
     "@tanstack/eslint-plugin-query": "^5.66.1",
     "@tanstack/react-query": "^5.69.0",
     "@tanstack/react-query-devtools": "^5.69.0",
-    "bcryptjs": "^2.4.3",
+    "bcryptjs": "^3.0.2",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
     "dayjs": "^1.11.13",
